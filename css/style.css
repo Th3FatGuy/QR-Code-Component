@@ -1,0 +1,46 @@
+/* Tag style */
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: #d6e2f0;
+    font-size: 15px;
+}
+
+img{
+    border-radius: 20px;
+    margin: 15px auto;
+    height: 280px;
+    width: 280px;
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+}
+/* ID Style */
+
+/* Class Style */
+.big-container{
+    position: relative;
+    text-align: center;
+    margin: 120px auto;
+    border-radius: 20px;
+    background-color: #ffffff;
+    width: 320px; 
+    height: 500px;
+}
+
+.qr-code{
+    display: flex;
+    justify-content: center;   
+}
+
+.text{
+    margin: auto;
+    text-align: center;
+    width: 250px;
+}
+
+.attribution{
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
